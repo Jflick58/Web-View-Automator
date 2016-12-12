@@ -1,6 +1,10 @@
 # Web-View-Automator
 This is a script for automating views of a webpage for marketing/SEO purposes. I am in the process of packaging this as a native Windows and Mac program. 
 
+Legal: 
+
+This is to be used for educational/testing purposes only. At no time am I responsible for an illegal behavior (e.g. click fraud) that a user of this program performs. End-users agree to withold liability from Github and/or Flick58 for any actions taken by the end-user. 
+
 Requirements: 
 - Python 3.5 or higher 
 - Knowledge of how to run a python script. 
