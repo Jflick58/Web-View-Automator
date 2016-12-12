@@ -6,4 +6,6 @@ def install(name):
 def install(name):
     subprocess.call(['pip', 'install', 'fake_useragent'])
     
+def install(name):
+    subprocess.call(['pip', 'install', 'easygui'])
     
