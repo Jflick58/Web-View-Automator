@@ -13,7 +13,7 @@ Instructions:
 
 3. Select "start" in the pop up window 
 
-4. (optional, but reccommended) Enter HTTP and HTTPS proxies. To find a list of free proxies, please visit https://incloak.com/proxy-list/
+4. (Optional, but reccommended) Enter HTTP and HTTPS proxies. To find a list of free proxies, please visit https://incloak.com/proxy-list/
 
 5. Enter a URL with in https:// format 
 
